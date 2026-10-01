@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Search"
+  short_description: "Search the web or fetch page contents."
+  default_prompt: "Use $websearch to fetch up-to-date pages on the web, or search with an agent-native provider."
